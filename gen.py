@@ -54,8 +54,8 @@ def gui():
 ██║░░░░░██║░░██║╚█████╔╝██╔╝╚██╗░░░██║░░░  ╚██████╔╝███████╗██║░╚███║
 ╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░  ░╚═════╝░╚══════╝╚═╝░░╚══╝""")
 
-    print(Fore.YELLOW+'1-Http proxies    2-Socks4 Proxies') 
-    print(Fore.YELLOW+'3-Socks5  Proxies 4-Exit                ')
+    print(Fore.YELLOW+'1-Http Proxies(raiding)    2-Socks4 Proxies') 
+    print(Fore.YELLOW+'3-Socks5 Proxies           4-Exit                ')
 
 
 while True:
